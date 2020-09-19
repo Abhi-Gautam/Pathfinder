@@ -7,7 +7,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="flutter_2d_grid"
+        android:label="Pathfinder"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
